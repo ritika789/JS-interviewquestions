@@ -34,18 +34,7 @@ In this document, you'll find a compilation of commonly asked JavaScript intervi
 26. [JavaScript Classes](#26-what-are-javascript-classes)
 27. [Inheritance in JavaScript](#27-what-is-inheritance-in-javascript)
 28. [Getters and Setters](#28-what-are-javascript-getters-and-setters)
-29. [The `try/catch` Statement](#29-what-is-the-purpose-of-the-trycatch-statement-in-javascript)
-30. [Difference between `let` and `const`](#30-what-is-the-difference-between-let-and-const-in-javascript)
-31. [The `forEach()` Function](#31-what-is-the-purpose-of-the-foreach-function-in-javascript)
-32. [The `localStorage` Object](#32-what-is-the-purpose-of-the-localstorage-object-in-javascript)
-33. [Arrow Functions](#33-what-are-arrow-functions)
-34. [Generator Functions](#34-what-are-generator-functions)
-35. [WeakSet in JavaScript](#35-explain-weakset-in-javascript)
-36. [Use of Callbacks](#36-why-do-we-use-callbacks)
-37. [WeakMap in JavaScript](#37-explain-weakmap-in-javascript)
-38. [Object Destructuring](#38-what-is-object-destructuring)
-39. [Prototypal vs Classical Inheritance](#39-difference-between-prototypal-and-classical-inheritance)
-40. [Temporal Dead Zone](#40-what-is-a-temporal-dead-zone)
+
 
 ---
 
